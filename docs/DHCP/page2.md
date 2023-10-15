@@ -61,6 +61,6 @@ net.ipv4.ip_forward=1
 ```
 Terakhir, Anda dapat menguji server DHCP dengan menghubungkan perangkat ke jaringan dan memeriksa apakah mereka menerima alamat IP dari server DHCP.
 
-![Result](https://github.com/ShoXS3/Zenn-MkDocs/blob/main/docs/assets/Result.jpg)
+![Result](../assets/Result.jpg)
 
 Ini adalah langkah-langkah dasar untuk mengatur server DHCP di Debian. Pastikan untuk menyesuaikan konfigurasi sesuai dengan kebutuhan dan kebijakan jaringan Anda.
