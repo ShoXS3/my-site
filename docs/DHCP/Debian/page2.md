@@ -1,6 +1,6 @@
 ---
 hide:
-  - toc
+
 ---
 
 # Chapther 1 : Creating a DHCP Server wih Debian
